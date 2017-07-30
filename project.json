@@ -1,0 +1,14 @@
+{
+  "name": "hugo-embed-api",
+  "description": "For Hugo",
+  "memory": 128,
+  "timeout": 10,
+  "role": "",
+  "environment": {
+    "bucket": "",
+    "access": "",
+    "secret": "",
+    "tag": "",
+    "domain": ""
+  }
+}
